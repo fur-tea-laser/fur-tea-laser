@@ -13,11 +13,11 @@
 ### 🛠 my toolbox
 ![typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![preact](https://img.shields.io/badge/Preact-%23673AB8.svg?style=for-the-badge&logo=preact&logoColor=white)
-![deno](https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=black)
+![deno](https://img.shields.io/badge/Deno-black?style=for-the-badge&logo=deno&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 🤝 let's connect
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jmathdev)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jmathdev)
 [![hackernews](https://img.shields.io/badge/Hacker%20News-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white)](https://news.ycombinator.com/user?id=fur_tea_laser)
