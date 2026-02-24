@@ -1,16 +1,23 @@
-## jared mathews - fur.tea.laser
+## 🤠  howdy, i'm jared
 
-<!--
-**fur-tea-laser/fur-tea-laser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> a pragmatic developer focused on building robust solutions and dancing in circles around my living room 🤪🪩
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🟢 about me
+* 💬 **ask me about:** typescript, composition, minimalist design, or my favorite travel story
+* ⚡ **fun fact:** in latin america, buses are better than planes
+* 🌎 **nomad spots:** mexico _(guadalajara, san cristobal de las casas, leon, mexico city, guanajuato)_, peru _(lima, cusco)_, argentina _(buenos aires)_
+---
+
+### 🛠 my toolbox
+![typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![preact](https://img.shields.io/badge/Preact-%23673AB8.svg?style=for-the-badge&logo=preact&logoColor=white)
+![deno](https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=black)
+![docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🤝 let's connect
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jmathdev)
+[![hackernews](https://img.shields.io/badge/Hacker%20News-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white)](https://news.ycombinator.com/user?id=fur_tea_laser)
