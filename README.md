@@ -13,7 +13,7 @@
 
 ### repositories
 
-[resume](https://github.com/fur-tea-laser/resume)
+- [**resume**](https://github.com/fur-tea-laser/resume) - a basic [website](fur-tea-laser.github.io/resume/) for showcasing work history
 
 ---
 
