@@ -14,7 +14,7 @@
 ### repositories
 
 - [**resume**](https://github.com/fur-tea-laser/resume) - a basic [_website_](https://fur-tea-laser.github.io/resume/) for showcasing work history
-- [**art**](https://github.com/fur-tea-laser/art) - choice selections from past creative detours
+- [**art**](https://github.com/fur-tea-laser/art) - choice selections from past creative detours _(need to download to view for most images)_
 
 ---
 
