@@ -7,7 +7,7 @@
 ### about me
 * **ask me about:** typescript, composition, minimalist design, or my favorite travel story
 * **fun fact:** in latin america, buses are better than planes
-* **nomad spots:** mexico _(guadalajara, san cristobal de las casas, leon, mexico city, guanajuato)_, peru _(lima, cusco)_, argentina _(buenos aires)_
+* **nomad spots:** mexico _(guadalajara, san cristobal de las casas, leon, mexico city, guanajuato)_, peru _(lima, cusco)_, argentina _(buenos aires)_, dominican republic _(las terrenas)_
 
 ---
 
