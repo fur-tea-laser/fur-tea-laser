@@ -19,14 +19,6 @@
 
 ---
 
-### my toolbox
-![typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![preact](https://img.shields.io/badge/Preact-%23673AB8.svg?style=for-the-badge&logo=preact&logoColor=white)
-![deno](https://img.shields.io/badge/Deno-black?style=for-the-badge&logo=deno&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
 ### let's connect
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fur-tea-laser@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jmathdev)
