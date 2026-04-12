@@ -15,6 +15,7 @@
 
 - [**resume**](https://github.com/fur-tea-laser/resume) - a basic [_website_](https://fur-tea-laser.github.io/resume/) for showcasing work history
 - [**stews-toolkit**](https://github.com/fur-tea-laser/stews-toolkit) - power tools for publishing quality curations to the web
+- [**git-sqlite-vfs**](https://github.com/fur-tea-laser/git-sqlite-vfs) - a git-versioned sqlite database powered by a custom virtual file system
 - [**math**](https://github.com/fur-tea-laser/math) - a math library for the creative and curious 🙂
 - [**art**](https://github.com/fur-tea-laser/art) - choice selections from past creative detours _(need to download to view for most images)_
 - [**stew**](https://github.com/fur-tea-laser/stew) - various personal [_curations (music, food, links)_](https://mystew.vercel.app)
